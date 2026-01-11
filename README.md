@@ -1,5 +1,5 @@
 # .NET 8 and React 19 with PostgreSQL and Observability
-A production-grade dotnet new template that scaffolds a complete full-stack application with .NET 8 Web API, React frontend, PostgreSQL database, and Nginx reverse proxy, including monitoring stack (Prometheus, Grafana, cAdvisor, Node Exporter) with Alpine-based multistage Docker builds, security hardening, and CI/CD-ready configuration.
+Template that scaffolds a complete full-stack application with .NET 8 Web API, React frontend, PostgreSQL database, and Nginx reverse proxy, including monitoring stack (Prometheus, Grafana, cAdvisor, Node Exporter).
 
 ## Features
 - **Backend**: .NET 8 Web API with Entity Framework Core for PostgreSQL
