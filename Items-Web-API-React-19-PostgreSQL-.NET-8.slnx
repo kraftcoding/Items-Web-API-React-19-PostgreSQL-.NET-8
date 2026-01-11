@@ -1,0 +1,19 @@
+<Solution>
+  <Folder Name="/Frontend/">
+    <File Path="src/frontend/Dockerfile" />
+    <File Path="src/frontend/eslint.config.js" />
+    <File Path="src/frontend/index.html" />
+    <File Path="src/frontend/nginx.conf" />
+    <File Path="src/frontend/package-lock.json" />
+    <File Path="src/frontend/package.json" />
+    <File Path="src/frontend/README.md" />
+    <File Path="src/frontend/vite.config.js" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path=".dockerignore" />
+    <File Path="docker-compose.yml" />
+    <File Path="init-db.sql" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="src/backend/Backend.csproj" />
+</Solution>
