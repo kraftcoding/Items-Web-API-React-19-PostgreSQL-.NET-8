@@ -9,6 +9,17 @@
     <File Path="src/frontend/README.md" />
     <File Path="src/frontend/vite.config.js" />
   </Folder>
+  <Folder Name="/Monitoring/">
+    <File Path="monitoring/prometheus.yml" />
+  </Folder>
+  <Folder Name="/Monitoring/grafana/" />
+  <Folder Name="/Monitoring/grafana/provisioning/" />
+  <Folder Name="/Monitoring/grafana/provisioning/dashboards/">
+    <File Path="monitoring/grafana/provisioning/dashboards/dashboards.yml" />
+  </Folder>
+  <Folder Name="/Monitoring/grafana/provisioning/datasources/">
+    <File Path="monitoring/grafana/provisioning/datasources/datasource.yml" />
+  </Folder>
   <Folder Name="/Solution Items/">
     <File Path=".dockerignore" />
     <File Path="docker-compose.yml" />
