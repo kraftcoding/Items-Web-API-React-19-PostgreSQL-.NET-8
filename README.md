@@ -36,7 +36,7 @@ Template that scaffolds a complete full-stack application with .NET 8 Web API, R
     - **Prometheus**: http://localhost:9090
 
     - **Grafana**: http://localhost:3000
-    - 
+   
     - **cAdvisor**: http://localhost:8080
 
     - **Node Exporter**: http://localhost:9100
